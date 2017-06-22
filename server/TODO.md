@@ -1,0 +1,19 @@
+# Todos for base package
+  - ~~Config eslint~~
+  - ~~Create config~~
+  - ~~Create logger~~
+  - ~~Create thinky initialization~~
+  - ~~Set up express~~
+  - ~~Start app~~
+  - ~~Create db~~
+  - Create base app tests
+    - ~~Utilities~~
+    - ~~Bad url test~~
+    - ~~Hash utilities test~~
+  - ~~Create hashing utilities~~
+  - Create model
+    - ~~User model~~
+  - ~~Create db connection~~
+  - Create auth register
+  - Create auth login
+  - Fix Config creator
